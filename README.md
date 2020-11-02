@@ -1,0 +1,1 @@
+# NSS-gamer-rater
