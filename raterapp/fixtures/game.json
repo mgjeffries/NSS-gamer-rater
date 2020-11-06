@@ -1,0 +1,45 @@
+[
+    {
+        "model": "raterapp.game",
+        "pk": 1,
+        "fields": {
+            "player": 1,
+            "title": "Pandemic",
+            "description": "Four diseases threaten the world, and your elite team of specialists must find a ... Trust me, this is actually a game, I promise!",
+            "designer": "Z-MAN Games",
+            "year_released": 2008,
+            "number_of_players": 4,
+            "time_to_play": 45,
+            "age_recommendation": 10
+        }
+    },
+    {
+        "model": "raterapp.game",
+        "pk": 2,
+        "fields": {
+            "player": 1,
+            "title": "Clue",
+            "description": "One murder…6 suspects. In this suspenseful Clue game, players have to find out who's responsible for murdering Mr. Boddy",
+            "designer": "Hasbro",
+            "year_released": 1949,
+            "number_of_players": 4,
+            "time_to_play": 45,
+            "age_recommendation": 8
+        }
+    },
+    {
+        "model": "raterapp.game",
+        "pk": 3,
+        "fields": {
+            "player": 1,
+            "title": "Dominion",
+            "description": "Acquire the most valuable lands by building your deck with treasure and power cards.",
+            "designer": "Donald X. Vaccarino",
+            "year_released": 2008,
+            "number_of_players": 4,
+            "time_to_play": 45,
+            "age_recommendation": 10
+        }
+    }
+]
+
